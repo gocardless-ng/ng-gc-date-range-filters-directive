@@ -5,6 +5,7 @@
   "dependencies": {
     "bower-angular": "git@github.com:angular/bower-angular.git#v1.2.0-rc.2",
     "ng-gc-filter-data-directive": "git://github.com/gocardless-ng/ng-gc-filter-data-directive.git",
+    "ng-gc-pikaday-directive": "git://github.com/gocardless-ng/ng-gc-pikaday-directive.git",
     "ng-gc-filters": "git://github.com/gocardless-ng/ng-gc-filters.git",
     "pikaday": "~1.1.0"
   },
