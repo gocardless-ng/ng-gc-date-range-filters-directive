@@ -9,7 +9,7 @@
            placeholder="Start date"
            aria-label="Created between: start date"
            date="filters.after"
-           filter-data="{ after: (date | toDateTime) }"></pikaday>
+           filter-data="{ after: (after | toDateTime) }"></pikaday>
 
   <label class="label filter-bar__label u-margin-Hxxs" for="filter-before">
     &amp;
@@ -21,5 +21,5 @@
            placeholder="End date"
            aria-label="Created between: end date"
            date="filters.before"
-           filter-data="{ before: (date | toDateTime:true) }"></pikaday>
+           filter-data="{ before: (before | toDateTime:true) }"></pikaday>
 </div>
